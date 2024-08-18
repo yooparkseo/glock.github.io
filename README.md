@@ -1,3 +1,1 @@
-# glock.github.io
-
-#Hello, I'm Glock! Welcome to my github Website👋👀
+# 안녕하세요
